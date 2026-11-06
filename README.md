@@ -1,17 +1,14 @@
-
-<!-- ========================================= -->
-<!--          SAKSHAM SHARMA | GITHUB           -->
-<!-- ========================================= -->
-
 <h1 align="center">Hi There, I'm Saksham 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF1493&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student;Aspiring+Software+Engineer;Tech+Innovator" alt="Typing SVG" />
 </p>
 
+<!-- PROFILE VIEWS & FOLLOWERS -->
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Saksham&label=PROFILE+VIEWS&color=ff1493&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Saksham?label=FOLLOWERS&color=ff1493&style=flat-square&logo=github" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=sakshamsharma0654321-stack&label=PROFILE%20VIEWS&color=ff1493&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/sakshamsharma0654321-stack?label=FOLLOWERS&color=ff1493&style=flat-square&logo=github" alt="GitHub Followers" />
 </p>
 
 ---
@@ -19,7 +16,7 @@
 <h2 align="center">📊 2026 Contributions</h2>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Saksham&bg_color=0d1117&color=ffffff&line=ff1493&point=ff69b4&area=true&hide_border=true&custom_title=2026%20Contribution%20Graph" alt="Contribution Graph" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sakshamsharma0654321-stack&bg_color=0d1117&color=ffffff&line=ff1493&point=ff69b4&area=true&hide_border=true&custom_title=2026%20Contribution%20Graph" alt="Contribution Graph" />
 </p>
 
 <p align="center">
@@ -72,8 +69,8 @@
 <h2 align="center">📈 GitHub Analytics</h2>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Saksham&show_icons=true&theme=radical&bg_color=0d1117&title_color=ff1493&icon_color=ff1493&text_color=ffffff&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saksham&layout=compact&theme=radical&bg_color=0d1117&title_color=ff1493&text_color=ffffff&hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sakshamsharma0654321-stack&show_icons=true&theme=radical&bg_color=0d1117&title_color=ff1493&icon_color=ff1493&text_color=ffffff&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshamsharma0654321-stack&layout=compact&theme=radical&bg_color=0d1117&title_color=ff1493&text_color=ffffff&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
