@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi There, I'm Saksham 👋</h1>
 
 <p align="center">
@@ -20,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-COMING%20SOON-ff1493?style=flat-square" alt="Status" />
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-ff1493?style=flat-square" alt="Status" />
   <img src="https://img.shields.io/badge/YEAR-2026-ff1493?style=flat-square" alt="Year" />
 </p>
 
@@ -29,6 +30,7 @@
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/HTML5-LEARNED-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5 Learned" />
   <img src="https://img.shields.io/badge/Learning-C-A8B9CC?style=flat&logo=c&logoColor=white" alt="Currently Learning C" />
 </p>
 
@@ -42,27 +44,27 @@
   <i>A tech enthusiast focused on learning, experimenting, and building something meaningful.</i>
 </p>
 
-- 💻 **What I Do:** Building responsive web layouts, exploring programming logic, and structuring foundational coding solutions.
+- 💻 **What I Do:** Creating HTML structures, exploring programming logic, and building foundational coding solutions.
 - 🎯 **Current Focus:** Mastering core programming concepts, exploring Data Structures & Algorithms (DSA), and web development.
-- 🌱 **Learning Goals:** Understanding advanced algorithms, mastering version control, and improving problem-solving skills.
+- 🌱 **Learning Goals:** Improving C programming, learning CSS and JavaScript, mastering version control, and strengthening problem-solving skills.
 - 🤝 **Collaboration:** Open to learning opportunities, beginner-friendly projects, and innovative ideas.
 - 🔗 **LinkedIn:** [Connect With Me](https://www.linkedin.com/)
 - 📧 **Email:** [Contact Me](mailto:your.email@example.com)
 
 ---
 
-<h2 align="center">🎮 Upcoming Projects</h2>
+<h2 align="center">🎮 Projects & Learning Journey</h2>
 
 <p align="center">
-  <i>Currently working on my skills. Exciting projects are on the way! 🚀</i>
+  <i>Learning, experimenting, and turning ideas into reality! 🚀</i>
 </p>
 
 | 🌐 Responsive Landing Page | 💻 Command-Line Utility | 🧠 Logic & DSA Repository |
 |:---:|:---:|:---:|
 | A modern, responsive website layout focused on clean design and user experience. | A collection of beginner-friendly command-line programs and useful utilities. | A collection of programming challenges, logic-building exercises, and foundational DSA problems. |
-| ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![DSA](https://img.shields.io/badge/DSA-ff1493?style=flat-square) |
-| <img src="https://img.shields.io/badge/STATUS-COMING%20SOON-ff1493?style=flat-square" /> | <img src="https://img.shields.io/badge/STATUS-PLANNED-ff1493?style=flat-square" /> | <img src="https://img.shields.io/badge/STATUS-PLANNED-ff1493?style=flat-square" /> |
-| [View Project Blueprint](https://github.com) | [View Project Blueprint](https://github.com) | [View Project Blueprint](https://github.com) |
+| ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![DSA](https://img.shields.io/badge/DSA-ff1493?style=flat-square) |
+| <img src="https://img.shields.io/badge/STATUS-LEARNED-ff1493?style=flat-square" /> | <img src="https://img.shields.io/badge/STATUS-PLANNED-ff1493?style=flat-square" /> | <img src="https://img.shields.io/badge/STATUS-PLANNED-ff1493?style=flat-square" /> |
+| HTML fundamentals completed. | Coming Soon | Coming Soon |
 
 ---
 
