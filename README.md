@@ -32,6 +32,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-LEARNED-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5 Learned" />
   <img src="https://img.shields.io/badge/Learning-C-A8B9CC?style=flat&logo=c&logoColor=white" alt="Currently Learning C" />
+  <img src="https://img.shields.io/badge/JavaScript-COMING%20SOON-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript Coming Soon" />
 </p>
 
 ---
